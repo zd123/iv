@@ -15,7 +15,7 @@ def formatData():
     def convertEpochTime(z):
         return int(time.mktime(z.timetuple()) * 1000)
     
-    pathtofile = "data/march29-texts.txt"
+    pathtofile = "data/texts.txt"
     phoneholder = "Zack DeSario"
 
     texts = pd.read_csv(pathtofile, delimiter='\t')
