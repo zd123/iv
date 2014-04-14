@@ -40,12 +40,27 @@ Run the script, and upon completion, you will have access to the following metri
 
 
     def formatData():
+![Alt text](/screenshots/formatData.png "Optional title")
+
     def getBasicTotals():
-    def getTotalsAndRatios():
-    def getDoubleTexts():
+![Alt text](/screenshots/getBasicTotals.png "Optional title")
+
+    def getTotalsAndRatios():  
+![Alt text](/screenshots/totalsAndRatios.png "Optional title")
+
+    def justDoubleTexts():
+![Alt text](/screenshots/justDoubleTexts.png "Optional title")
+
     def getTimeStatistics():
+![Alt text](/screenshots/getTimeStatistics.png "Optional title")
+
     def buildProfile():
-    def groupStats():
-    def formatForGephi():
-    
 ![Alt text](/screenshots/buildProfile.png "Optional title")
+
+    def groupStats():
+![Alt text](/screenshots/gropuedStats.png "Optional title")
+
+    def formatForGephi():
+![Alt text](/screenshots/formatForGephi.png "Optional title")
+
+
