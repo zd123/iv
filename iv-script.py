@@ -10,7 +10,6 @@ from pandas.tseries.offsets import Hour, Minute
 
 
 # The formatData function cleans and removes any errors in your file and will return a data frame, csv, or json with the following calcualted metrics:
-
 def formatData():    
     
     def convertEpochTime(z):
@@ -278,6 +277,6 @@ def formatForGephi():
 
 ################ END OF GET SPARKLINE DATA #########################
 
-# <codecell>
+
 
 
