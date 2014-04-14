@@ -1,4 +1,0 @@
-Iv
-==
-
-The insecurity validator
